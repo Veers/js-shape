@@ -1,0 +1,8 @@
+{
+  "name": "js-shape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Veers/js-shape",
+  "author": "Veers <a.konviser@gmail.com>",
+  "license": "GNU"
+}
